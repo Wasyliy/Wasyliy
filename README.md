@@ -8,7 +8,7 @@
   <p>
     <a href="https://wasy.duckdns.org"><img src="https://img.shields.io/badge/TERMINAL_SITE-wasy.duckdns.org-b8292f?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=050506" alt="Website"/></a>
     <a href="https://wasy.duckdns.org/services.html"><img src="https://img.shields.io/badge/SERVICES-US_Card_%C2%B7_Moodle_%C2%B7_3X--UI-8f1d24?style=for-the-badge&labelColor=050506" alt="Services"/></a>
-    <a href="https://t.me/Wyyph"><img src="https://img.shields.io/badge/TELEGRAM-%40Wyyph-1e1e24?style=for-the-badge&logo=telegram&logoColor=white&labelColor=050506" alt="Telegram"/></a>
+    <a href="https://t.me/wasy_duckduck_bot"><img src="https://img.shields.io/badge/TG_BOT-%40wasy__duckduck__bot-1e1e24?style=for-the-badge&logo=telegram&logoColor=white&labelColor=050506" alt="Telegram Bot"/></a>
     <a href="https://steamcommunity.com/id/fakelekser/"><img src="https://img.shields.io/badge/STEAM-fakelekser-1e1e24?style=for-the-badge&logo=steam&logoColor=white&labelColor=050506" alt="Steam"/></a>
   </p>
 
